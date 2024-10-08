@@ -49,7 +49,7 @@ Preparado para criar suas obras-primas? Vamos lá!
 1. **Clone o repositório**:
 
     ```bash
-    git clone https://github.com/seu-usuario/spectra-studio.git
+    git clone https://github.com/thmsVDC/Spectra-Studio.git
     ```
 
 2. **Navegue para a pasta do projeto**:
