@@ -1,113 +1,113 @@
 # 🌈 **Spectra Studio** 🎨
 
-Bem-vindo ao **Spectra Studio**, o lugar onde sua criatividade ganha vida! 🚀 Seja você um artista digital, um designer gráfico ou apenas alguém que adora brincar com imagens, o **Spectra Studio** oferece todas as ferramentas que você precisa para transformar suas ideias em realidade. ✨
+Welcome to **Spectra Studio**, where your creativity comes to life! 🚀 Whether you're a digital artist, a graphic designer, or just someone who loves playing with images, **Spectra Studio** offers all the tools you need to turn your ideas into reality. ✨
 
-## ✨ Funcionalidades de Destaque ✨
+## ✨ Key Features ✨
 
-🔧 **Edição Precisa e Poderosa**  
-Ajuste **cores**, **contraste**, **brilho** e muito mais, com ferramentas fáceis de usar! Você tem controle total para deixar sua imagem exatamente como deseja.
+🔧 **Precise and Powerful Editing**  
+Adjust **colors**, **contrast**, **brightness**, and more with easy-to-use tools! You have full control to get your image just the way you want it.
 
-🖌️ **Ferramentas de Desenho**  
-Escolha entre pincéis, formas, e opções de pintura para adicionar um toque artístico. A **criação livre** é o que faz tudo brilhar! 🌟
+🖌️ **Drawing Tools**  
+Choose from brushes, shapes, and painting options to add an artistic touch. **Free creation** is what makes everything shine! 🌟
 
-📚 **Trabalho com Camadas**  
-Crie composições complexas utilizando **camadas** para separar elementos e obter controle detalhado. Gerencie suas camadas com facilidade — mova, edite e transforme sem perder nada! 💼
+📚 **Layer Management**  
+Create complex compositions using **layers** to separate elements and gain detailed control. Easily manage your layers—move, edit, and transform without losing anything! 💼
 
-✂️ **Seleção e Recorte Precisos**  
-Selecione áreas específicas para aplicar mudanças precisas ou cortar aquela parte indesejada da imagem. Suas edições nunca foram tão precisas. 🎯
+✂️ **Precise Selection and Cropping**  
+Select specific areas for precise changes or cut out unwanted parts of the image. Your edits have never been so accurate. 🎯
 
-🎨 **Filtros Customizáveis**  
-Filtros incríveis que podem ser ajustados conforme seu gosto! Brinque com diferentes parâmetros e crie efeitos únicos. 🎉
+🎨 **Customizable Filters**  
+Amazing filters that can be fine-tuned to your liking! Play with different parameters and create unique effects. 🎉
 
-⚡ **Efeitos Visuais Poderosos**  
-Desfoque, nitidez, distorções e transformações estão a um clique de distância! Quer impressionar com efeitos avançados? O **Spectra Studio** tem o que você precisa! 🌪️
+⚡ **Powerful Visual Effects**  
+Blur, sharpen, distort, and transform with just one click! Want to impress with advanced effects? **Spectra Studio** has you covered! 🌪️
 
-🖼️ **Suporte a Vários Formatos**  
-Importe e exporte imagens em **PNG**, **JPEG**, **TIFF**, e muito mais. Versatilidade é nosso nome do meio! 😉
+🖼️ **Support for Multiple Formats**  
+Import and export images in **PNG**, **JPEG**, **TIFF**, and many more. Versatility is our middle name! 😉
 
-## 🔧 **Tecnologias por Trás do Magia** 🛠️
+## 🔧 **Technologies Behind the Magic** 🛠️
 
-**Spectra Studio** é movido pelas melhores tecnologias:
+**Spectra Studio** is powered by the best technologies:
 
-- **Flask** 🐍: Um framework Python leve e poderoso.
-- **JavaScript** 💻: Torna tudo interativo e dinâmico!
-- **HTML5 & CSS3** 🌐: Responsividade e beleza, garantidas.
-- **Pillow (PIL)** 🖼️: Manipulação de imagens robusta e eficiente.
-- **SQLAlchemy** 🗄️: Banco de dados rápido e organizado.
+- **Flask** 🐍: A lightweight and powerful Python framework.
+- **JavaScript** 💻: Makes everything interactive and dynamic!
+- **HTML5 & CSS3** 🌐: Ensuring responsiveness and beauty.
+- **Pillow (PIL)** 🖼️: Robust and efficient image manipulation.
+- **SQLAlchemy** 🗄️: Fast and organized database management.
 
-## 🚀 **Como Começar** 🚀
+## 🚀 **Getting Started** 🚀
 
-Preparado para criar suas obras-primas? Vamos lá!
+Ready to create your masterpieces? Let's go!
 
-### Requisitos
+### Prerequisites
 
 - **Python 3.9+**  
-- **pip** instalado  
+- **pip** installed  
 
-### Passos de Instalação
+### Installation Steps
 
-1. **Clone o repositório**:
+1. **Clone the repository**:
 
     ```bash
     git clone https://github.com/thmsVDC/Spectra-Studio.git
     ```
 
-2. **Navegue para a pasta do projeto**:
+2. **Navigate to the project folder**:
 
     ```bash
     cd spectra-studio
     ```
 
-3. **Crie um ambiente virtual**:
+3. **Create a virtual environment**:
 
     ```bash
     python -m venv venv
-    source venv/bin/activate  # No Windows: venv\Scripts\activate
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
     ```
 
-4. **Instale as dependências**:
+4. **Install dependencies**:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-5. **Inicie o servidor Flask**:
+5. **Start the Flask server**:
 
     ```bash
     flask run
     ```
 
-6. **Acesse o aplicativo** em `http://127.0.0.1:5000` e comece a criar! 🌟
+6. **Access the app** at `http://127.0.0.1:5000` and start creating! 🌟
 
-## 🤝 **Contribuições** 💡
+## 🤝 **Contributing** 💡
 
-A comunidade é o coração do **Spectra Studio**! ❤️ Se você quer ajudar, fique à vontade para contribuir!
+The community is the heart of **Spectra Studio**! ❤️ If you'd like to contribute, feel free to jump in!
 
-1. Faça um **fork** deste repositório.
-2. Crie uma nova branch para sua feature incrível! 😎:
-
-    ```bash
-    git checkout -b feature-minha-nova-feature
-    ```
-
-3. Faça suas mudanças e **commite**:
+1. Fork this repository.
+2. Create a new branch for your awesome feature! 😎:
 
     ```bash
-    git commit -m "Adiciona minha nova feature"
+    git checkout -b feature-my-awesome-feature
     ```
 
-4. Envie sua branch de volta:
+3. Make your changes and commit:
 
     ```bash
-    git push origin feature-minha-nova-feature
+    git commit -m "Add my awesome feature"
     ```
 
-5. Abra um **pull request** e nos diga o que você fez! 🎉
+4. Push your branch back:
 
-## 📄 **Licença** 📝
+    ```bash
+    git push origin feature-my-awesome-feature
+    ```
 
-Este projeto é licenciado sob a **MIT License**. Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
+5. Open a pull request and let us know what you did! 🎉
+
+## 📄 **License** 📝
+
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
-🎨 **Spectra Studio** é sua ferramenta definitiva para edições impressionantes. Deixe sua criatividade fluir e crie obras-primas incríveis. O que você está esperando? 😍 
+🎨 **Spectra Studio** is your ultimate tool for stunning edits. Let your creativity flow and create amazing masterpieces. What are you waiting for? 😍
